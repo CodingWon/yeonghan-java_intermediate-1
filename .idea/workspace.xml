@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex4_string_change/StringChangeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex5_string_split_join/StringSplitJoinMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringChangeMain2">
+  <component name="RunManager" selected="Application.StringSplitJoinMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex3_string_search.Main" />
       <module name="yeonghan-java_intermediate-1" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInfoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex1_string_info.StringInfoMain" />
+    <configuration name="StringSplitJoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex5_string_split_join.StringSplitJoinMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_string_class.ex1_string_info.*" />
+          <option name="PATTERN" value="ch3_string_class.ex5_string_split_join.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSplitJoinMain" />
         <item itemvalue="Application.StringChangeMain2" />
         <item itemvalue="Application.StringChangeMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringComparisonMain" />
-        <item itemvalue="Application.StringInfoMain" />
       </list>
     </recent_temporary>
   </component>
