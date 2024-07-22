@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex6_string_util/StringUtilsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex7_string_builder/StringBuilderMain1_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,27 +23,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2jFpIoHZUOtPR9JHDO5Hb5ieEkv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/programing/0_git_source/springboot-api_server/yeonghan-java_intermediate-1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.StringBuilderMain1_1.executor": "Run",
+    "Application.StringUtilsMain.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringSplitJoinMain">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex3_string_search.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.StringBuilderMain1_1">
+    <configuration name="StringBuilderMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex7_string_builder.StringBuilderMain1_1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_string_class.ex3_string_search.*" />
+          <option name="PATTERN" value="ch3_string_class.ex7_string_builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex2_string_comparison.StringComparisonMain" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch3_string_class.ex2_string_comparison.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringSplitJoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex5_string_split_join.StringSplitJoinMain" />
       <module name="yeonghan-java_intermediate-1" />
@@ -103,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex6_string_util.StringUtilsMain" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch3_string_class.ex6_string_util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderMain1_1" />
+        <item itemvalue="Application.StringUtilsMain" />
         <item itemvalue="Application.StringSplitJoinMain" />
         <item itemvalue="Application.StringChangeMain2" />
         <item itemvalue="Application.StringChangeMain" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StringComparisonMain" />
       </list>
     </recent_temporary>
   </component>
