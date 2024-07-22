@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyIntegerNullMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyIntegerNullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex03_class_of_class/ClassMetaMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +33,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassMetaMain.executor": "Run",
     "Application.MethodChainingMain1.executor": "Run",
     "Application.MyIntegerMethodMain0.executor": "Run",
     "Application.MyIntegerNullMain0.executor": "Run",
+    "Application.MyIntegerNullMain1.executor": "Run",
     "Application.StringBuilderMain1_1.executor": "Run",
     "Application.StringBuilderMain1_2.executor": "Run",
     "Application.StringUtilsMain.executor": "Run",
@@ -59,7 +59,20 @@
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyIntegerNullMain1">
+  <component name="RunManager" selected="Application.ClassMetaMain">
+    <configuration name="ClassMetaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex03_class_of_class.ClassMetaMain" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex03_class_of_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyIntegerMethodMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex01_wrapper_necessity.MyIntegerMethodMain0" />
       <module name="yeonghan-java_intermediate-1" />
@@ -99,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_string_class.pro4_substring.TestString4" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch3_string_class.pro4_substring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestString6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch3_string_class.pro6_split_join.TestString6" />
       <module name="yeonghan-java_intermediate-1" />
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassMetaMain" />
         <item itemvalue="Application.MyIntegerNullMain1" />
         <item itemvalue="Application.MyIntegerNullMain0" />
         <item itemvalue="Application.MyIntegerMethodMain0" />
         <item itemvalue="Application.TestString6" />
-        <item itemvalue="Application.TestString4" />
       </list>
     </recent_temporary>
   </component>
