@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex8_method_chaining/MethodChainingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex8_method_chaining/MethodChainingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex8_method_chaining/MethodChainingMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex8_method_chaining/ValueAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch3_string_class/ex9_string_builder_2/StringBuilderMain1_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +44,7 @@
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MethodChainingMain1">
+  <component name="RunManager" selected="Application.StringBuilderMain1_2">
     <configuration name="MethodChainingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex8_method_chaining.MethodChainingMain1" />
       <module name="yeonghan-java_intermediate-1" />
@@ -74,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringChangeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex4_string_change.StringChangeMain2" />
+    <configuration name="StringBuilderMain1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_string_class.ex9_string_builder_2.StringBuilderMain1_2" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch3_string_class.ex4_string_change.*" />
+          <option name="PATTERN" value="ch3_string_class.ex9_string_builder_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderMain1_2" />
         <item itemvalue="Application.MethodChainingMain1" />
         <item itemvalue="Application.StringBuilderMain1_1" />
         <item itemvalue="Application.StringUtilsMain" />
         <item itemvalue="Application.StringSplitJoinMain" />
-        <item itemvalue="Application.StringChangeMain2" />
       </list>
     </recent_temporary>
   </component>
