@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex03_type_safety_enum_type/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex03_type_safety_enum_type/EnumEx3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex03_type_safety_enum_type/EnumRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex03_type_safety_enum_type/Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex02_type_safety_enum_pattern/ClassGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex02_type_safety_enum_pattern/ClassGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -37,6 +41,8 @@
     "Application.ClassGradeEx2_1.executor": "Run",
     "Application.ClassMetaMain.executor": "Run",
     "Application.ClassRefMain.executor": "Run",
+    "Application.EnumEx3_1.executor": "Run",
+    "Application.EnumRefMain.executor": "Run",
     "Application.MathMain.executor": "Run",
     "Application.MethodChainingMain1.executor": "Run",
     "Application.MyIntegerMethodMain0.executor": "Run",
@@ -63,10 +69,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch5_enum.ex03_type_safety_enum_type" />
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassGradeEx2_1">
+  <component name="RunManager" selected="Application.EnumEx3_1">
     <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch5_enum.ex02_type_safety_enum_pattern.ClassGradeEx2_1" />
       <module name="yeonghan-java_intermediate-1" />
@@ -93,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex06_math_class.MathMain" />
+    <configuration name="EnumEx3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex03_type_safety_enum_type.EnumEx3_1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex06_math_class.*" />
+          <option name="PATTERN" value="ch5_enum.ex03_type_safety_enum_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex07_random_class.RandomMain" />
+    <configuration name="EnumRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex03_type_safety_enum_type.EnumRefMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex07_random_class.*" />
+          <option name="PATTERN" value="ch5_enum.ex03_type_safety_enum_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumEx3_1" />
+        <item itemvalue="Application.EnumRefMain" />
         <item itemvalue="Application.ClassGradeEx2_1" />
         <item itemvalue="Application.ClassRefMain" />
         <item itemvalue="Application.StringGradeEx1_1" />
-        <item itemvalue="Application.RandomMain" />
-        <item itemvalue="Application.MathMain" />
       </list>
     </recent_temporary>
   </component>
