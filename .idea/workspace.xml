@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/EnumEx3_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/DiscountService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/Grade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,8 @@
     "Application.ClassMetaMain.executor": "Run",
     "Application.ClassRefMain.executor": "Run",
     "Application.EnumEx3_1.executor": "Run",
+    "Application.EnumEx3_2.executor": "Run",
+    "Application.EnumEx3_3.executor": "Run",
     "Application.EnumMethodMain.executor": "Debug",
     "Application.EnumRefMain.executor": "Run",
     "Application.MathMain.executor": "Run",
@@ -59,6 +61,7 @@
     "Application.TestString4.executor": "Run",
     "Application.TestString6.executor": "Run",
     "Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1.executor": "Run",
+    "Application.ch5_enum.ex06_enum_refactoring.EnumEx3_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -73,18 +76,32 @@
       <recent name="C:\Users\kimjiwon\Documents\personal\GIT\yeonghan-java_intermediate-1\src\ch5_enum\ex05_enum_refactoring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch5_enum.ex06_enum_refactoring" />
       <recent name="ch5_enum.ex04_enum_method" />
       <recent name="ch5_enum.ex03_type_safety_enum_type" />
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch5_enum.ex06_enum_refactoring.EnumEx3_1">
-    <configuration name="EnumEx3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex03_type_safety_enum_type.EnumEx3_1" />
+  <component name="RunManager" selected="Application.EnumEx3_3">
+    <configuration name="EnumEx3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex06_enum_refactoring.EnumEx3_2" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch5_enum.ex03_type_safety_enum_type.*" />
+          <option name="PATTERN" value="ch5_enum.ex06_enum_refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumEx3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex06_enum_refactoring.EnumEx3_3" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_enum.ex06_enum_refactoring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +115,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch5_enum.ex04_enum_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex03_type_safety_enum_type.EnumRefMain" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch5_enum.ex03_type_safety_enum_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumEx3_3" />
+        <item itemvalue="Application.EnumEx3_2" />
         <item itemvalue="Application.ch5_enum.ex06_enum_refactoring.EnumEx3_1" />
         <item itemvalue="Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1" />
         <item itemvalue="Application.EnumMethodMain" />
-        <item itemvalue="Application.EnumEx3_1" />
-        <item itemvalue="Application.EnumRefMain" />
       </list>
     </recent_temporary>
   </component>
