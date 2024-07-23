@@ -1,4 +1,4 @@
-package ch4_wrapper_class_of_class.ex01_wrapper_necessity;
+package ch4_wrapper_class_of_class_math_random.ex01_wrapper_necessity;
 
 public class MyIntegerMethodMain1 {
     public static void main(String[] args) {

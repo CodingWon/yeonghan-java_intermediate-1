@@ -1,6 +1,4 @@
-package ch4_wrapper_class_of_class.ex02_wrapper_necessity;
-
-import ch4_wrapper_class_of_class.ex02_wrapper_necessity.MyInteger;
+package ch4_wrapper_class_of_class_math_random.ex02_wrapper_necessity;
 
 public class MyIntegerNullMain1 {
     public static void main(String[] args) {

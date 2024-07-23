@@ -1,8 +1,7 @@
-package ch4_wrapper_class_of_class.ex03_class_of_class;
+package ch4_wrapper_class_of_class_math_random.ex03_class_of_class;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.sql.Struct;
 
 public class ClassMetaMain {
     public static void main(String[] args) throws Exception {

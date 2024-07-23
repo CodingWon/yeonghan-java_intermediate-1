@@ -1,9 +1,9 @@
-package ch4_wrapper_class_of_class.ex04_class_create;
+package ch4_wrapper_class_of_class_math_random.ex04_class_create;
 
 public class ClassCreateMain {
     public static void main(String[] args) throws Exception {
         Class helloClass1 = Hello.class;
-        Class helloClass2 = Class.forName("ch4_wrapper_class_of_class.ex04_class_create.Hello");
+        Class helloClass2 = Class.forName("ch4_wrapper_class_of_class_math_random.ex04_class_create.Hello");
         Class helloClass3 = new Hello().getClass();
 
         System.out.println("helloClass1 : " + helloClass1);

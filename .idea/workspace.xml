@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex06_math_class/MathMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex01_wrapper_necessity/MyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex01_wrapper_necessity/MyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex01_wrapper_necessity/MyIntegerMethodMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex01_wrapper_necessity/MyIntegerMethodMain0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex01_wrapper_necessity/MyIntegerMethodMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex01_wrapper_necessity/MyIntegerMethodMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex02_wrapper_necessity/MyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyIntegerNullMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex02_wrapper_necessity/MyIntegerNullMain0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex02_wrapper_necessity/MyIntegerNullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex02_wrapper_necessity/MyIntegerNullMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex03_class_of_class/ClassMetaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex03_class_of_class/ClassMetaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex04_class_create/ClassCreateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex04_class_create/ClassCreateMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex04_class_create/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex04_class_create/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class_math_random/ex05_system_class/SystemMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +71,13 @@
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SystemMain">
+  <component name="RunManager" selected="Application.MathMain">
     <configuration name="ClassCreateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex04_class_create.ClassCreateMain" />
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex04_class_create.ClassCreateMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex04_class_create.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex04_class_create.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="ClassMetaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex03_class_of_class.ClassMetaMain" />
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex03_class_of_class.ClassMetaMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex03_class_of_class.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex03_class_of_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyIntegerNullMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex02_wrapper_necessity.MyIntegerNullMain0" />
+    <configuration name="MathMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex06_math_class.MathMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex02_wrapper_necessity.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex06_math_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="MyIntegerNullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex02_wrapper_necessity.MyIntegerNullMain1" />
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex02_wrapper_necessity.MyIntegerNullMain1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex02_wrapper_necessity.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex02_wrapper_necessity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="SystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class.ex05_system_class.SystemMain" />
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex05_system_class.SystemMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch4_wrapper_class_of_class.ex05_system_class.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex05_system_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathMain" />
         <item itemvalue="Application.SystemMain" />
         <item itemvalue="Application.ClassCreateMain" />
         <item itemvalue="Application.ClassMetaMain" />
         <item itemvalue="Application.MyIntegerNullMain1" />
-        <item itemvalue="Application.MyIntegerNullMain0" />
       </list>
     </recent_temporary>
   </component>

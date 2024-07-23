@@ -1,4 +1,4 @@
-package ch4_wrapper_class_of_class.ex05_system_class;
+package ch4_wrapper_class_of_class_math_random.ex05_system_class;
 
 import java.util.Arrays;
 
