@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/ClassGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/ClassGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/DiscountService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
     "Application.TestString3.executor": "Run",
     "Application.TestString4.executor": "Run",
     "Application.TestString6.executor": "Run",
+    "Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
