@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/EnumEx3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch5_enum/pro1_enum_grade/AuthGrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex06_enum_refactoring/Grade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -33,43 +32,43 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClassCreateMain.executor": "Run",
-    "Application.ClassGradeEx2_1.executor": "Run",
-    "Application.ClassMetaMain.executor": "Run",
-    "Application.ClassRefMain.executor": "Run",
-    "Application.EnumEx3_1.executor": "Run",
-    "Application.EnumEx3_2.executor": "Run",
-    "Application.EnumEx3_3.executor": "Run",
-    "Application.EnumMethodMain.executor": "Debug",
-    "Application.EnumRefMain.executor": "Run",
-    "Application.MathMain.executor": "Run",
-    "Application.MethodChainingMain1.executor": "Run",
-    "Application.MyIntegerMethodMain0.executor": "Run",
-    "Application.MyIntegerNullMain0.executor": "Run",
-    "Application.MyIntegerNullMain1.executor": "Run",
-    "Application.RandomMain.executor": "Run",
-    "Application.StringBuilderMain1_1.executor": "Run",
-    "Application.StringBuilderMain1_2.executor": "Run",
-    "Application.StringGradeEx1_1.executor": "Run",
-    "Application.StringUtilsMain.executor": "Run",
-    "Application.SystemMain.executor": "Run",
-    "Application.TestString1.executor": "Run",
-    "Application.TestString2.executor": "Run",
-    "Application.TestString3.executor": "Run",
-    "Application.TestString4.executor": "Run",
-    "Application.TestString6.executor": "Run",
-    "Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1.executor": "Run",
-    "Application.ch5_enum.ex06_enum_refactoring.EnumEx3_1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1/src/ch5_enum/ex06_enum_refactoring",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClassCreateMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassGradeEx2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassMetaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassRefMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumEx3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumEx3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumEx3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumMethodMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EnumRefMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodChainingMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerMethodMain0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerNullMain0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerNullMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderMain1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderMain1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringGradeEx1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringUtilsMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SystemMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch5_enum.ex06_enum_refactoring.EnumEx3_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1/src/ch5_enum/ex06_enum_refactoring&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kimjiwon\Documents\personal\GIT\yeonghan-java_intermediate-1\src\ch5_enum\ex06_enum_refactoring" />
