@@ -33,7 +33,7 @@ public class SystemMain {
         char [] copiedArray = new char[5];
         System.arraycopy(originalArray, 0, copiedArray, 0, originalArray.length);
 
-        System.out.println("copiedArray = " + copiedArray);
+        System.out.println("copiedArray = " + Arrays.toString(copiedArray));
         System.out.println("Array.toString = " + Arrays.toString(originalArray));
 
     }

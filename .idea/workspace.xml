@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch4_wrapper_class_of_class/ex05_system_class/SystemMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,31 +31,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClassCreateMain.executor": "Run",
-    "Application.ClassMetaMain.executor": "Run",
-    "Application.MethodChainingMain1.executor": "Run",
-    "Application.MyIntegerMethodMain0.executor": "Run",
-    "Application.MyIntegerNullMain0.executor": "Run",
-    "Application.MyIntegerNullMain1.executor": "Run",
-    "Application.StringBuilderMain1_1.executor": "Run",
-    "Application.StringBuilderMain1_2.executor": "Run",
-    "Application.StringUtilsMain.executor": "Run",
-    "Application.SystemMain.executor": "Run",
-    "Application.TestString1.executor": "Run",
-    "Application.TestString2.executor": "Run",
-    "Application.TestString3.executor": "Run",
-    "Application.TestString4.executor": "Run",
-    "Application.TestString6.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClassCreateMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassMetaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodChainingMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerMethodMain0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerNullMain0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyIntegerNullMain1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderMain1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderMain1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringUtilsMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SystemMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestString6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
