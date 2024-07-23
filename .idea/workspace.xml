@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/ClassGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/ClassGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5_enum/ex05_enum_refactoring/DiscountService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,33 +62,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1",
+    "last_opened_file_path": "C:/Users/kimjiwon/Documents/personal/GIT/yeonghan-java_intermediate-1/src/ch5_enum/ex05_enum_refactoring",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kimjiwon\Documents\personal\GIT\yeonghan-java_intermediate-1\src\ch5_enum\ex05_enum_refactoring" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch5_enum.ex04_enum_method" />
       <recent name="ch5_enum.ex03_type_safety_enum_type" />
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumMethodMain">
+  <component name="RunManager" selected="Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1">
     <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch5_enum.ex02_type_safety_enum_pattern.ClassGradeEx2_1" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch5_enum.ex02_type_safety_enum_pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex02_type_safety_enum_pattern.ClassRefMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
@@ -137,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch5_enum.ex05_enum_refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch5_enum.ex05_enum_refactoring.ClassGradeEx2_1" />
         <item itemvalue="Application.EnumMethodMain" />
         <item itemvalue="Application.EnumEx3_1" />
         <item itemvalue="Application.EnumRefMain" />
         <item itemvalue="Application.ClassGradeEx2_1" />
-        <item itemvalue="Application.ClassRefMain" />
       </list>
     </recent_temporary>
   </component>
