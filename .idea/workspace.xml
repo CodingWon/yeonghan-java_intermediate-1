@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex06_offset_date_time/OffsetDateTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex07_instant_time/InstantMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Application.EnumMethodMain.executor": "Debug",
     "Application.EnumRefMain.executor": "Run",
     "Application.HttpStatusMain.executor": "Run",
+    "Application.InstantMain.executor": "Run",
     "Application.LocalDateMain.executor": "Run",
     "Application.LocalDateTimeMain.executor": "Run",
     "Application.LocalTimeMain.executor": "Run",
@@ -91,13 +92,13 @@
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OffsetDateTimeMain">
-    <configuration name="LocalDateTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex03_local_date_time.LocalDateTimeMain" />
+  <component name="RunManager" selected="Application.InstantMain">
+    <configuration name="InstantMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex07_instant_time.InstantMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_date_time.ex03_local_date_time.*" />
+          <option name="PATTERN" value="ch6_date_time.ex07_instant_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex2_localtime.LocalTimeMain" />
+    <configuration name="LocalDateTimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex03_local_date_time.LocalDateTimeMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_date_time.ex2_localtime.*" />
+          <option name="PATTERN" value="ch6_date_time.ex03_local_date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstantMain" />
         <item itemvalue="Application.OffsetDateTimeMain" />
         <item itemvalue="Application.ZoneDateTimeMain" />
         <item itemvalue="Application.ZoneIdMain" />
         <item itemvalue="Application.LocalDateTimeMain" />
-        <item itemvalue="Application.LocalTimeMain" />
       </list>
     </recent_temporary>
   </component>
