@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex09_chrono_unit_field/ChangeTimePlusMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex09_chrono_unit_field/ChangeTimeWithMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex09_chrono_unit_field/ChronoFieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex09_chrono_unit_field/ChronoUnitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex09_chrono_unit_field/GetTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex10_formatting/FormattingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch6_date_time/ex10_formatting/FormattingMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +51,8 @@
     "Application.EnumEx3_3.executor": "Run",
     "Application.EnumMethodMain.executor": "Debug",
     "Application.EnumRefMain.executor": "Run",
+    "Application.FormattingMain1.executor": "Run",
+    "Application.FormattingMain2.executor": "Run",
     "Application.GetTimeMain.executor": "Run",
     "Application.HttpStatusMain.executor": "Run",
     "Application.InstantMain.executor": "Run",
@@ -103,7 +102,7 @@
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChangeTimeWithMain">
+  <component name="RunManager" selected="Application.FormattingMain2">
     <configuration name="ChangeTimePlusMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex09_chrono_unit_field.ChangeTimePlusMain" />
       <module name="yeonghan-java_intermediate-1" />
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChronoFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex09_chrono_unit_field.ChronoFieldMain" />
+    <configuration name="FormattingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex10_formatting.FormattingMain1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_date_time.ex09_chrono_unit_field.*" />
+          <option name="PATTERN" value="ch6_date_time.ex10_formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChronoUnitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex09_chrono_unit_field.ChronoUnitMain" />
+    <configuration name="FormattingMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex10_formatting.FormattingMain2" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch6_date_time.ex09_chrono_unit_field.*" />
+          <option name="PATTERN" value="ch6_date_time.ex10_formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormattingMain2" />
+        <item itemvalue="Application.FormattingMain1" />
         <item itemvalue="Application.ChangeTimeWithMain" />
         <item itemvalue="Application.ChangeTimePlusMain" />
         <item itemvalue="Application.GetTimeMain" />
-        <item itemvalue="Application.ChronoFieldMain" />
-        <item itemvalue="Application.ChronoUnitMain" />
       </list>
     </recent_temporary>
   </component>
