@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex01_nested_outer/NestedOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex01_nested_outer/NestedOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/NetworkMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/NetworkMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex02_nested_class_활용/NetworkMessage.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
