@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex04_inner_class_활용/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex04_inner_class_활용/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex05_same_variable/ShadowingMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,7 @@
     "Application.OffsetDateTimeMain.executor": "Run",
     "Application.PeriodMain.executor": "Run",
     "Application.RandomMain.executor": "Run",
+    "Application.ShadowingMain.executor": "Run",
     "Application.StringBuilderMain1_1.executor": "Run",
     "Application.StringBuilderMain1_2.executor": "Run",
     "Application.StringGradeEx1_1.executor": "Run",
@@ -113,26 +115,13 @@
       <recent name="ch4_wrapper_class_of_class.ex02_wrapper_necessity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain">
+  <component name="RunManager" selected="Application.ShadowingMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex04_inner_class_활용.CarMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch7_inner_nesting_class.ex04_inner_class_활용.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChronoUnitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch6_date_time.ex09_chrono_unit_field.ChronoUnitMain" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch6_date_time.ex09_chrono_unit_field.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +168,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShadowingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex05_same_variable.ShadowingMain" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch7_inner_nesting_class.ex05_same_variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShadowingMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.InnerOuterMain" />
         <item itemvalue="Application.NetworkMain" />
         <item itemvalue="Application.NestedOuterMain" />
-        <item itemvalue="Application.ChronoUnitMain" />
       </list>
     </recent_temporary>
   </component>
