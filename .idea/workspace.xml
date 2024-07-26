@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro4_익명_클래스를_완성해라/AnonymousMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro4_익명_클래스를_완성해라/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro5_도서관_관리_시스템/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro5_도서관_관리_시스템/LibraryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
     "Application.HttpStatusMain.executor": "Run",
     "Application.InnerOuterMain.executor": "Run",
     "Application.InstantMain.executor": "Run",
+    "Application.LibraryMain.executor": "Run",
     "Application.LocalDateMain.executor": "Run",
     "Application.LocalDateTimeMain.executor": "Run",
     "Application.LocalOuterV1.executor": "Run",
@@ -133,13 +134,13 @@
       <recent name="ch7_inner_nesting_class.ex11_anonymouse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OuterClass3Main">
-    <configuration name="Ex1RefMainV4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex16_anonymouse_활용2_참조값_직접_전달.Ex1RefMainV4" />
+  <component name="RunManager" selected="Application.LibraryMain">
+    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.Ex1RefMainV5" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex16_anonymouse_활용2_참조값_직접_전달.*" />
+          <option name="PATTERN" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.Ex1RefMainV5" />
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro5_도서관_관리_시스템.LibraryMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.*" />
+          <option name="PATTERN" value="ch7_inner_nesting_class.pro5_도서관_관리_시스템.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryMain" />
         <item itemvalue="Application.OuterClass3Main" />
         <item itemvalue="Application.OuterClass2Main" />
         <item itemvalue="Application.OuterClassMain" />
         <item itemvalue="Application.Ex1RefMainV5" />
-        <item itemvalue="Application.Ex1RefMainV4 (1)" />
       </list>
     </recent_temporary>
   </component>
