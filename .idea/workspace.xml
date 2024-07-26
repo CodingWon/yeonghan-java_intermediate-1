@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro3_지역_클래스를_완성해라/OuterClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro3_지역_클래스를_완성해라/OuterClass3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro4_익명_클래스를_완성해라/AnonymousMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro4_익명_클래스를_완성해라/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
