@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex06_local_class/LocalOuterV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex07_local_class_활용/LocalOuterV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex07_local_class_활용/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex08_local_class_활용_캡처_1/LocalOuterV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex08_local_class_활용_캡처_1/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex09_local_class_활용_캡처_2/LocalOuterV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex09_local_class_활용_캡처_2/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex10_local_class_활용_캡처_3/LocalOuterV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex10_local_class_활용_캡처_3/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex11_anonymouse/AnonymouseOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex11_anonymouse/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymouseOuter.executor": "Run",
     "Application.AuthGradeMain1.executor": "Run",
     "Application.CarMain.executor": "Run",
     "Application.ChangeTimePlusMain.executor": "Run",
@@ -70,6 +64,7 @@
     "Application.LocalDateTimeMain.executor": "Run",
     "Application.LocalOuterV1.executor": "Run",
     "Application.LocalOuterV3.executor": "Run",
+    "Application.LocalOuterV4.executor": "Run",
     "Application.LocalTimeMain.executor": "Run",
     "Application.MathMain.executor": "Run",
     "Application.MethodChainingMain1.executor": "Run",
@@ -121,20 +116,20 @@
       <recent name="C:\Users\kimjiwon\Documents\personal\GIT\yeonghan-java_intermediate-1\src\ch5_enum\ex05_enum_refactoring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch7_inner_nesting_class.ex11_anonymouse" />
       <recent name="ch7_inner_nesting_class.ex10_local_class_활용_캡처_3" />
       <recent name="ch7_inner_nesting_class.ex08_local_class_활용_2" />
       <recent name="ch5_enum.ex06_enum_refactoring" />
       <recent name="ch5_enum.ex04_enum_method" />
-      <recent name="ch5_enum.ex03_type_safety_enum_type" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalOuterV4">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex04_inner_class_활용.CarMain" />
+  <component name="RunManager" selected="Application.AnonymouseOuter">
+    <configuration name="AnonymouseOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex11_anonymouse.AnonymouseOuter" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex04_inner_class_활용.*" />
+          <option name="PATTERN" value="ch7_inner_nesting_class.ex11_anonymouse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnonymouseOuter" />
         <item itemvalue="Application.LocalOuterV4" />
         <item itemvalue="Application.LocalOuterV3" />
         <item itemvalue="Application.LocalOuterV1" />
         <item itemvalue="Application.ShadowingMain" />
-        <item itemvalue="Application.CarMain" />
       </list>
     </recent_temporary>
   </component>
