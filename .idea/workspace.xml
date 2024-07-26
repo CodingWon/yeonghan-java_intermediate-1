@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex14_anonymouse_활용_local_class/Ex1RefMainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex14_anonymouse_활용_local_class/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex15_anonymouse_활용_anonymouse/Ex1RefMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex15_anonymouse_활용_anonymouse/Process.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Application.Ex0Main.executor": "Run",
     "Application.Ex1Main.executor": "Run",
     "Application.Ex1RefMainV2.executor": "Run",
+    "Application.Ex1RefMainV3.executor": "Run",
     "Application.FormattingMain1.executor": "Run",
     "Application.FormattingMain2.executor": "Run",
     "Application.GetTimeMain.executor": "Run",
@@ -119,14 +120,14 @@
       <recent name="C:\Users\kimjiwon\Documents\personal\GIT\yeonghan-java_intermediate-1\src\ch5_enum\ex05_enum_refactoring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch7_inner_nesting_class.ex15_anonymouse_활용_anonymouse" />
       <recent name="ch7_inner_nesting_class.ex14_anonymouse_활용_local_class" />
       <recent name="ch7_inner_nesting_class.ex11_anonymouse" />
       <recent name="ch7_inner_nesting_class.ex10_local_class_활용_캡처_3" />
       <recent name="ch7_inner_nesting_class.ex08_local_class_활용_2" />
-      <recent name="ch5_enum.ex06_enum_refactoring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex1RefMainV2">
+  <component name="RunManager" selected="Application.Ex1RefMainV3">
     <configuration name="AnonymouseOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex11_anonymouse.AnonymouseOuter" />
       <module name="yeonghan-java_intermediate-1" />
@@ -179,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalOuterV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex10_local_class_활용_캡처_3.LocalOuterV4" />
+    <configuration name="Ex1RefMainV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex15_anonymouse_활용_anonymouse.Ex1RefMainV3" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex10_local_class_활용_캡처_3.*" />
+          <option name="PATTERN" value="ch7_inner_nesting_class.ex15_anonymouse_활용_anonymouse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1RefMainV3" />
         <item itemvalue="Application.Ex1RefMainV2" />
         <item itemvalue="Application.Ex1Main" />
         <item itemvalue="Application.Ex0Main" />
         <item itemvalue="Application.AnonymouseOuter" />
-        <item itemvalue="Application.LocalOuterV4" />
       </list>
     </recent_temporary>
   </component>
