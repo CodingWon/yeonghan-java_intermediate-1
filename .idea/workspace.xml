@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro1_정적_중첩_클래스를_완성해라/OuterClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro1_정적_중첩_클래스를_완성해라/OuterClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro2_내부_클래스를_완성해라/OuterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro2_내부_클래스를_완성해라/OuterClass2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,20 +131,7 @@
       <recent name="ch7_inner_nesting_class.ex11_anonymouse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OuterClassMain">
-    <configuration name="Ex1RefMainV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex15_anonymouse_활용_anonymouse.Ex1RefMainV3" />
-      <module name="yeonghan-java_intermediate-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex15_anonymouse_활용_anonymouse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OuterClass2Main">
     <configuration name="Ex1RefMainV4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex16_anonymouse_활용2_참조값_직접_전달.Ex1RefMainV4" />
       <module name="yeonghan-java_intermediate-1" />
@@ -184,6 +171,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OuterClass2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro2_내부_클래스를_완성해라.OuterClass2Main" />
+      <module name="yeonghan-java_intermediate-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch7_inner_nesting_class.pro2_내부_클래스를_완성해라.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OuterClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro1_정적_중첩_클래스를_완성해라.OuterClassMain" />
       <module name="yeonghan-java_intermediate-1" />
@@ -199,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OuterClass2Main" />
         <item itemvalue="Application.OuterClassMain" />
         <item itemvalue="Application.Ex1RefMainV5" />
         <item itemvalue="Application.Ex1RefMainV4 (1)" />
         <item itemvalue="Application.Ex1RefMainV4" />
-        <item itemvalue="Application.Ex1RefMainV3" />
       </list>
     </recent_temporary>
   </component>
