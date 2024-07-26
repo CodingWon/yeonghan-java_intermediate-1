@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex12_anonymouse_활용_1/Ex0Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex12_anonymouse_활용_1/Ex0Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex12_anonymouse_활용_1/Ex0Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.EnumEx3_3.executor": "Run",
     "Application.EnumMethodMain.executor": "Debug",
     "Application.EnumRefMain.executor": "Run",
+    "Application.Ex0Main.executor": "Run",
     "Application.FormattingMain1.executor": "Run",
     "Application.FormattingMain2.executor": "Run",
     "Application.GetTimeMain.executor": "Run",
