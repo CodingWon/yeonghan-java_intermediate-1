@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro5_도서관_관리_시스템/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/pro5_도서관_관리_시스템/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex01_network_client/MainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex01_network_client/NetworkClientV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex01_network_client/NetworkService0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex13_anonymouse_활용_2/Ex1RefMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch7_inner_nesting_class/ex13_anonymouse_활용_2/Ex1RefMainV1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +58,7 @@
     "Application.EnumRefMain.executor": "Run",
     "Application.Ex0Main.executor": "Run",
     "Application.Ex1Main.executor": "Run",
+    "Application.Ex1RefMainV1.executor": "Run",
     "Application.Ex1RefMainV2.executor": "Run",
     "Application.Ex1RefMainV3.executor": "Run",
     "Application.Ex1RefMainV4 (1).executor": "Run",
@@ -102,6 +105,7 @@
     "Application.TestString2.executor": "Run",
     "Application.TestString3.executor": "Run",
     "Application.TestString4.executor": "Run",
+    "Application.TestString5.executor": "Run",
     "Application.TestString6.executor": "Run",
     "Application.TestZone.executor": "Run",
     "Application.ZoneDateTimeMain.executor": "Run",
@@ -134,13 +138,13 @@
       <recent name="ch7_inner_nesting_class.ex11_anonymouse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LibraryMain">
-    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.Ex1RefMainV5" />
+  <component name="RunManager" selected="Application.MainV0">
+    <configuration name="ClassMetaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex03_class_of_class.ClassMetaMain" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.ex17_anonymouse_리팩토링_람다.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex03_class_of_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro5_도서관_관리_시스템.LibraryMain" />
+    <configuration name="Ex1RefMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.ex13_anonymouse_활용_2.Ex1RefMainV1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.pro5_도서관_관리_시스템.*" />
+          <option name="PATTERN" value="ch7_inner_nesting_class.ex13_anonymouse_활용_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro2_내부_클래스를_완성해라.OuterClass2Main" />
+    <configuration name="MainV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch8_exception.ex01_network_client.MainV0" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.pro2_내부_클래스를_완성해라.*" />
+          <option name="PATTERN" value="ch8_exception.ex01_network_client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro3_지역_클래스를_완성해라.OuterClass3Main" />
+    <configuration name="MyIntegerNullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch4_wrapper_class_of_class_math_random.ex02_wrapper_necessity.MyIntegerNullMain1" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.pro3_지역_클래스를_완성해라.*" />
+          <option name="PATTERN" value="ch4_wrapper_class_of_class_math_random.ex02_wrapper_necessity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7_inner_nesting_class.pro1_정적_중첩_클래스를_완성해라.OuterClassMain" />
+    <configuration name="TestString6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch3_string_class.pro6_split_join.TestString6" />
       <module name="yeonghan-java_intermediate-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch7_inner_nesting_class.pro1_정적_중첩_클래스를_완성해라.*" />
+          <option name="PATTERN" value="ch3_string_class.pro6_split_join.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LibraryMain" />
-        <item itemvalue="Application.OuterClass3Main" />
-        <item itemvalue="Application.OuterClass2Main" />
-        <item itemvalue="Application.OuterClassMain" />
-        <item itemvalue="Application.Ex1RefMainV5" />
+        <item itemvalue="Application.MainV0" />
+        <item itemvalue="Application.Ex1RefMainV1" />
+        <item itemvalue="Application.ClassMetaMain" />
+        <item itemvalue="Application.MyIntegerNullMain1" />
+        <item itemvalue="Application.TestString6" />
       </list>
     </recent_temporary>
   </component>

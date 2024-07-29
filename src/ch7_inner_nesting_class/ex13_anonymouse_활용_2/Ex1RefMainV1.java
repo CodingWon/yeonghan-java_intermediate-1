@@ -3,7 +3,7 @@ package ch7_inner_nesting_class.ex13_anonymouse_활용_2;
 import java.util.Random;
 
 public class Ex1RefMainV1 {
-    public static void hello (Process process){
+    public void hello (Process process){
         System.out.println("프로그램 시작 ");
         process.run();
         System.out.println("프로그램 종료");
@@ -30,9 +30,9 @@ public class Ex1RefMainV1 {
     public static void main(String[] args) {
         Process dice = new Dice();
         Process sum = new Sum();
-
+        Ex1RefMainV1 ex = new Ex1RefMainV1();
         System.out.println("Hello 실행");
-        hello(dice);
-        hello(sum);
+        ex.hello(dice);
+        ex.hello(sum);
     }
 }
