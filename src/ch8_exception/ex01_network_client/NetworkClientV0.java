@@ -20,5 +20,4 @@ public class NetworkClientV0 {
     public void disconnect(){
         System.out.println(address + " 서버 연결 해제 ");
     }
-
 }
