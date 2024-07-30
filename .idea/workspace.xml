@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bad954f6-4e42-4d5d-b0b3-63e0fd222d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/ConnectExceptionV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/MainV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/NetworkClientException3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/NetworkClientV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/NetworkServiceV3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/SendExceptionV3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/NetworkServiceV3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch8_exception/ex04_network_client_exception_step/NetworkServiceV3_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
